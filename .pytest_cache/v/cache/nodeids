@@ -2,6 +2,12 @@
   "Test_Lab3.py::test_bubble_sort_ascending",
   "Test_Lab3.py::test_bubble_sort_descending",
   "Test_Lab3.py::test_bubble_sort_invalid",
+  "test_Lab3.py::test_bubble_sort_ascending",
+  "test_Lab3.py::test_bubble_sort_descending",
+  "test_Lab3.py::test_bubble_sort_invalid",
+  "test_Lab3.py::test_greater_than_ten",
+  "test_Lab3.py::test_not_integers",
+  "test_Lab3.py::test_zero",
   "test_bmi.py::test_bmi_normal_weight",
   "test_bmi.py::test_bmi_over_weight",
   "test_bmi.py::test_bmi_under_weight"
