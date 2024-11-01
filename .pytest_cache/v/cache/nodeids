@@ -11,6 +11,9 @@
   "test_bmi.py::test_bmi_normal_weight",
   "test_bmi.py::test_bmi_over_weight",
   "test_bmi.py::test_bmi_under_weight",
+  "test_employee_info.py::test_calculate_average_salary",
+  "test_employee_info.py::test_get_employee_by_age_range",
+  "test_employee_info.py::test_get_employee_by_dept",
   "test_price_info.py::test_cost_of_fruit",
   "test_price_info.py::test_total_cost_shopping"
 ]
